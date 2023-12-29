@@ -4,8 +4,9 @@
 
         |-------------------------------------------|
 
-[1.0] -  AdShield-Lite [* Creacion y Correcciónes [-] *]
+                    [1.0] -  AdShield-Lite [* Creacion y Correcciónes [-] *]
 
-      -  ¡AdShield-Lite v0.1 ha llegado para salvar el día! Esta versión trae consigo la magia inicial para bloquear esos molestos anuncios, junto con algunas correcciones de errores menores. ¡Hazte un café, relájate y disfruta de un internet más limpio y rápido!
+      -  ¡AdShield-Lite v0.1 ha llegado para salvar el día! Esta versión trae consigo la magia inicial para bloquear esos
+          molestos anuncios, junto con algunas correcciones de errores menores. ¡Hazte un café, relájate y disfruta de un                     internet más limpio y rápido!
 
         |-------------------------------------------|
